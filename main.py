@@ -37,5 +37,4 @@ while running:
     pygame.draw.circle(screen, (205, 2, 3), (x, y), 50)
     pygame.display.update()
 
-
 pygame.quit()
