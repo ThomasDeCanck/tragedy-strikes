@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c978651f-e141-4bd0-9741-8929e4a5a9fd" name="Changes" comment="oef 3">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="c978651f-e141-4bd0-9741-8929e4a5a9fd" name="Changes" comment="oef 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ThomasDeCanck/tragedy-strikes.git",
+    "accountId": "daa1ff9d-ac9d-4f46-820a-d43912015758"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -83,7 +87,31 @@
       <option name="project" value="LOCAL" />
       <updated>1773750954276</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="oef 4">
+      <option name="closed" value="true" />
+      <created>1773751318448</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773751318448</updated>
+    </task>
+    <task id="LOCAL-00006" summary="oef 4">
+      <option name="closed" value="true" />
+      <created>1773751553024</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773751553024</updated>
+    </task>
+    <task id="LOCAL-00007" summary="oef 4">
+      <option name="closed" value="true" />
+      <created>1773751638796</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773751638796</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +129,7 @@
     <MESSAGE value="oef 1" />
     <MESSAGE value="oef 2" />
     <MESSAGE value="oef 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="oef 3" />
+    <MESSAGE value="oef 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="oef 4" />
   </component>
 </project>
