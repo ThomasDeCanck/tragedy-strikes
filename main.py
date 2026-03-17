@@ -12,8 +12,9 @@ x = 300
 y = 200
 radius = 50
 
-
 vx = 3
+vy = 2
+
 
 running = True
 while running:
@@ -24,11 +25,13 @@ while running:
             running = False
 
     x += vx
-    if x + radius >= 1280:
+    y += vy
+
+    if x + radius >= 1280 or x - radius <= 0:
         vx = -vx
 
-    if x - radius <= 0:
-        vx = -vx
+    if y + radius >= 720 or y - radius <= 0:
+        vy = -vy
 
     screen.fill((0, 106, 78))
     pygame.draw.circle(screen, (205, 2, 3), (x, y), 50)
